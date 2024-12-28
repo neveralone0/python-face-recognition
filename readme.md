@@ -1,6 +1,6 @@
 
 ### **Description:**
-python face recognition code based on sklearn lib, the code checks for identity of unknown person in its dataset, its using a train-tested model to do so, by default the train-test balance is 70% for train and 30% for testing
+python face recognition code based on sklearn lib, uses both LBP and HOG methods to process images, the code checks for identity of unknown person in its dataset, its using a train-tested model to do so, by default the train-test balance is 70% for train and 30% for testing
 
 ### Dev Environment:
 - Python3.x (tested on 3.11)
